@@ -1,4 +1,4 @@
-# Text Analyzer v1
+# csv-summarizer
 
 A beginner-friendly Python tool to analyze text files.
 
