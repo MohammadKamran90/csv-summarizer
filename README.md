@@ -1,15 +1,14 @@
-# csv-summarizer
+# CSV Summarizer
 
-A beginner-friendly Python tool to analyze text files.
+A simple Python script that reads a CSV file and generates a quick summary:
 
-## Features
-- Count total words in a text file
-- Find the longest word (and its length)
-- Find the shortest word (and its length)
-- Count the frequency of each word
+- Counts total rows
+- Finds maximum and minimum values
+- Identifies which item has the max/min value
+- Calculates the total sum of a numeric column
 
 ## Usage
-1. Save your text file in the same folder as the script.
-2. Run the program:
-   ```bash
-   python text_analyzer.py
+
+1. Place your `items.csv` file in the same folder as the script.  
+   Example format:
+
